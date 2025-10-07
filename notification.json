@@ -34,5 +34,41 @@
     "date": "2025-10-12T15:00:00Z",
     "imageUrl": null
   }
+  {
+    "id": 6,
+    "title": "Limited Edition Chairs Released",
+    "body": "Our limited edition handcrafted chairs are now available. Grab yours before stock runs out!",
+    "date": "2025-10-15T08:00:00Z",
+    "imageUrl": null
+  },
+  {
+    "id": 7,
+    "title": "Refer & Earn",
+    "body": "Invite friends and earn ₹200 on each successful referral. Start sharing now!",
+    "date": "2025-10-17T14:00:00Z",
+    "imageUrl": null
+  },
+  {
+    "id": 8,
+    "title": "Festive Sale is Live!",
+    "body": "Celebrate the season with up to 60% off on festive furniture collections.",
+    "date": "2025-10-20T09:30:00Z",
+    "imageUrl": null
+  },
+  {
+    "id": 9,
+    "title": "Track Your Orders Easily",
+    "body": "You can now track all your furniture orders directly from your profile screen.",
+    "date": "2025-10-22T16:45:00Z",
+    "imageUrl": null
+  },
+  {
+    "id": 10,
+    "title": "Thank You for Your Feedback!",
+    "body": "We value your reviews. Your input helps us improve the FurniScape experience.",
+    "date": "2025-10-25T11:00:00Z",
+    "imageUrl": null
+  }
 ]
+
 
